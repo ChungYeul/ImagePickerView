@@ -21,6 +21,15 @@
 		0097A1D8187A7C5900F88695 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0097A1BA187A7C5900F88695 /* UIKit.framework */; };
 		0097A1E0187A7C5900F88695 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0097A1DE187A7C5900F88695 /* InfoPlist.strings */; };
 		0097A1E2187A7C5900F88695 /* ImagePickerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0097A1E1187A7C5900F88695 /* ImagePickerViewTests.m */; };
+		0097A235187A8BB800F88695 /* snsd1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A22C187A8BB800F88695 /* snsd1.png */; };
+		0097A236187A8BB800F88695 /* snsd0.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A22D187A8BB800F88695 /* snsd0.png */; };
+		0097A237187A8BB800F88695 /* snsd5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A22E187A8BB800F88695 /* snsd5.png */; };
+		0097A238187A8BB800F88695 /* snsd3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A22F187A8BB800F88695 /* snsd3.png */; };
+		0097A239187A8BB800F88695 /* snsd7.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A230187A8BB800F88695 /* snsd7.png */; };
+		0097A23A187A8BB800F88695 /* snsd6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A231187A8BB800F88695 /* snsd6.png */; };
+		0097A23B187A8BB800F88695 /* snsd4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A232187A8BB800F88695 /* snsd4.png */; };
+		0097A23C187A8BB800F88695 /* snsd8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A233187A8BB800F88695 /* snsd8.png */; };
+		0097A23D187A8BB800F88695 /* snsd2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0097A234187A8BB800F88695 /* snsd2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,15 @@
 		0097A1DD187A7C5900F88695 /* ImagePickerViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImagePickerViewTests-Info.plist"; sourceTree = "<group>"; };
 		0097A1DF187A7C5900F88695 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0097A1E1187A7C5900F88695 /* ImagePickerViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagePickerViewTests.m; sourceTree = "<group>"; };
+		0097A22C187A8BB800F88695 /* snsd1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd1.png; sourceTree = "<group>"; };
+		0097A22D187A8BB800F88695 /* snsd0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd0.png; sourceTree = "<group>"; };
+		0097A22E187A8BB800F88695 /* snsd5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd5.png; sourceTree = "<group>"; };
+		0097A22F187A8BB800F88695 /* snsd3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd3.png; sourceTree = "<group>"; };
+		0097A230187A8BB800F88695 /* snsd7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd7.png; sourceTree = "<group>"; };
+		0097A231187A8BB800F88695 /* snsd6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd6.png; sourceTree = "<group>"; };
+		0097A232187A8BB800F88695 /* snsd4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd4.png; sourceTree = "<group>"; };
+		0097A233187A8BB800F88695 /* snsd8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd8.png; sourceTree = "<group>"; };
+		0097A234187A8BB800F88695 /* snsd2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snsd2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +130,15 @@
 		0097A1BC187A7C5900F88695 /* ImagePickerView */ = {
 			isa = PBXGroup;
 			children = (
+				0097A22D187A8BB800F88695 /* snsd0.png */,
+				0097A22C187A8BB800F88695 /* snsd1.png */,
+				0097A234187A8BB800F88695 /* snsd2.png */,
+				0097A22F187A8BB800F88695 /* snsd3.png */,
+				0097A232187A8BB800F88695 /* snsd4.png */,
+				0097A22E187A8BB800F88695 /* snsd5.png */,
+				0097A231187A8BB800F88695 /* snsd6.png */,
+				0097A230187A8BB800F88695 /* snsd7.png */,
+				0097A233187A8BB800F88695 /* snsd8.png */,
 				0097A1C5187A7C5900F88695 /* AppDelegate.h */,
 				0097A1C6187A7C5900F88695 /* AppDelegate.m */,
 				0097A1C8187A7C5900F88695 /* Main.storyboard */,
@@ -228,8 +255,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0097A23B187A8BB800F88695 /* snsd4.png in Resources */,
+				0097A236187A8BB800F88695 /* snsd0.png in Resources */,
+				0097A23A187A8BB800F88695 /* snsd6.png in Resources */,
+				0097A238187A8BB800F88695 /* snsd3.png in Resources */,
+				0097A237187A8BB800F88695 /* snsd5.png in Resources */,
+				0097A23C187A8BB800F88695 /* snsd8.png in Resources */,
+				0097A239187A8BB800F88695 /* snsd7.png in Resources */,
 				0097A1CF187A7C5900F88695 /* Images.xcassets in Resources */,
+				0097A235187A8BB800F88695 /* snsd1.png in Resources */,
 				0097A1C1187A7C5900F88695 /* InfoPlist.strings in Resources */,
+				0097A23D187A8BB800F88695 /* snsd2.png in Resources */,
 				0097A1CA187A7C5900F88695 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
